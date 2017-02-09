@@ -1,0 +1,17 @@
+body {
+  position: relative;
+  z-index: 952;
+  display: flex;
+  margin: 0;
+  background: red;
+}
+
+@media (min-width: 960px) {
+  p {
+    color: pink;
+    box-shadow: 0 0 0 #ff274d;
+  }
+}
+dow: 0 0 0 #ff274d;
+    }
+}
